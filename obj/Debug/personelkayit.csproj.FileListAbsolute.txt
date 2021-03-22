@@ -1,0 +1,12 @@
+C:\Users\Zeynep\Desktop\udemy\projeler\personel\personelkayit\personelkayit\bin\Debug\personelkayit.exe.config
+C:\Users\Zeynep\Desktop\udemy\projeler\personel\personelkayit\personelkayit\bin\Debug\personelkayit.exe
+C:\Users\Zeynep\Desktop\udemy\projeler\personel\personelkayit\personelkayit\bin\Debug\personelkayit.pdb
+C:\Users\Zeynep\Desktop\udemy\projeler\personel\personelkayit\personelkayit\obj\Debug\personelkayit.csprojAssemblyReference.cache
+C:\Users\Zeynep\Desktop\udemy\projeler\personel\personelkayit\personelkayit\obj\Debug\personelkayit.Properties.Resources.resources
+C:\Users\Zeynep\Desktop\udemy\projeler\personel\personelkayit\personelkayit\obj\Debug\personelkayit.csproj.GenerateResource.cache
+C:\Users\Zeynep\Desktop\udemy\projeler\personel\personelkayit\personelkayit\obj\Debug\personelkayit.exe
+C:\Users\Zeynep\Desktop\udemy\projeler\personel\personelkayit\personelkayit\obj\Debug\personelkayit.pdb
+C:\Users\Zeynep\Desktop\udemy\projeler\personel\personelkayit\personelkayit\obj\Debug\personelkayit.FrmAnaForm.resources
+C:\Users\Zeynep\Desktop\udemy\projeler\personel\personelkayit\personelkayit\obj\Debug\personelkayit.FrmGrafikler.resources
+C:\Users\Zeynep\Desktop\udemy\projeler\personel\personelkayit\personelkayit\obj\Debug\personelkayit.Frmistatistik.resources
+C:\Users\Zeynep\Desktop\udemy\projeler\personel\personelkayit\personelkayit\obj\Debug\personelkayit.FrmGiris.resources
